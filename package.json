@@ -1,8 +1,8 @@
 {
-  "name": "hubot-alias",
+  "name": "hubot-alias-action",
   "description": "Action alias for hubot",
-  "version": "0.1.11",
-  "author": "dtaniwaki",
+  "version": "0.0.1",
+  "author": "oltruong",
   "license": "MIT",
   "keywords": [
     "hubot",
@@ -12,13 +12,13 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/dtaniwaki/hubot-alias.git"
+    "url": "git@github.com:oltruong/hubot-alias-action.git"
   },
   "bugs": {
-    "url": "https://github.com/dtaniwaki/hubot-alias/issues"
+    "url": "https://github.com/oltruong/hubot-alias-action/issues"
   },
   "devDependencies": {
-    "hubot": "2.8.0",
+    "hubot": "3.3.2",
     "hubot-scripts": "*",
     "blanket": "~1.1.6",
     "chai": "*",
